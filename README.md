@@ -20,7 +20,7 @@ bu projede kullanıcıya yardımcı olan basit bir dijital asistan tasarladım.
 **Kritik Eşik**
 EĞER (kullanici_girdisi == gecerli_komut) islemi_gerceklestir();
 DEĞİLSE 
- // Kritik eşik aşıldı. Yanlış veya boş. giriş yapıldı.
+ // Kritik eşik aşıldı. Yanlış veya boş giriş yapıldı.
  hata_mesajı_göster "Geçersiz komut!" işlemi_durdur
 
 ## kaynakça
