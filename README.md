@@ -14,8 +14,15 @@ proglamlama yeteneğimi geliştirmek ve öğrenmek.
 -algoritma oluşturmayı öğrenmek.
 -kodlama hatalarını farkedebilmek.
 
-## projenin içeriği
-ders kitabındaki çalışmalar ve etkinlikler.
+## projenin kapsamı
+bu projede kullanıcıya yardımcı olan basit bir dijital asistan tasarladım.
+
+**Kritik Eşik**
+EĞER (kullanici_girdisi == geceeli_komut) islemi_gerceklestir();
+DEĞİLSE 
+ // Kritik eşik aşıldı. Yanlış veya boş. giriş yapıldı.
+ hata_mesajı_göster "Geçersiz komut!" işlemi_durdur
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
+canva
