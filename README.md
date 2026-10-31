@@ -18,13 +18,11 @@ proglamlama yeteneğimi geliştirmek ve öğrenmek.
 bu projede kullanıcıya yardımcı olan basit bir dijital asistan tasarladım.
 
 **Kritik Eşik**
-EĞER (kullanici_girdisi == gecerli_komut) islemi_gerceklestir();
+EĞER (kullanici_girdisi == geceeli_komut) islemi_gerceklestir();
 DEĞİLSE 
- // Kritik eşik aşıldı. Yanlış veya boş giriş yapıldı.
+ // Kritik eşik aşıldı. Yanlış veya boş. giriş yapıldı.
  hata_mesajı_göster "Geçersiz komut!" işlemi_durdur
-
-![akış şeması](https://imgur.com/mnKXLkI)
+![akış şeması](https://imgur.com/a/06nJyZZ#OZnkeaM)
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
-canva
