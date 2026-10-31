@@ -23,7 +23,7 @@ DEĞİLSE
  // Kritik eşik aşıldı. Yanlış veya boş giriş yapıldı.
  hata_mesajı_göster "Geçersiz komut!" işlemi_durdur
 
-[akış şeması] (https://imgur.com/a/bvP1cms)
+![akış şeması](https://imgur.com/a/bvP1cms)
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
