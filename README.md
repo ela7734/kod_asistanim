@@ -3,10 +3,10 @@
 Proje Yazarı: Ela Yıldızhan
 
 ## projenin adı
-kod_asistanim
+Kod-Asistan v0.1
 
 ## projenin amacı
-proglamlama yeteneğimi geliştirmek ve öğrenmek.
+Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak dijital asistan tasarlamak.
 
 ## projenin hedefleri
 -proglamlama öğrenmek.
