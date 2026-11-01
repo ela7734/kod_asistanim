@@ -19,6 +19,3 @@ Profil kimliğine ad ve soyadı aktar.
 profil kimliği ve kullanıcı adıyla birlikte ekrana yazdır.
 
 BİTİR
-
-# akış şeması
-![akış şeması](27397412-896d-4493-9f5d-97c8f8e91032.jpeg)
