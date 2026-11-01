@@ -26,3 +26,5 @@ DEĞİLSE
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
+
+
