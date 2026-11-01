@@ -26,5 +26,5 @@ DEĞİLSE
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
-
+Akış şeması görseli, Grok (xAI) yapay zeka modeli kullanılarak hazırlanmıştır. (01.11.2026)
 
