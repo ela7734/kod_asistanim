@@ -22,7 +22,7 @@ EĞER (kullanici_girdisi == geceeli_komut) islemi_gerceklestir();
 DEĞİLSE 
  // Kritik eşik aşıldı. Yanlış veya boş. giriş yapıldı.
  hata_mesajı_göster "Geçersiz komut!" işlemi_durdur
-
+![akış şeması](https://imgur.com/a/06nJyZZ)
 
 ## kaynakça
 proglamlama temelleri ders kitabı 9. sınıf
